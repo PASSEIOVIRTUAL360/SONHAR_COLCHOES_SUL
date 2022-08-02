@@ -1,0 +1,41 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_363F064C_C521_A2CE_41B6_71367E0A1E62.source = https://2birds.com.br/
+LinkBehaviour_2078C997_C52E_AE5B_41E3_D171E362FCF5.source = https://2birds.com.br/
+LinkBehaviour_9D6C9151_BB35_E9D0_41D6_0B2997673CC1.source = https://api.whatsapp.com/send?phone=558498016270
+LinkBehaviour_5CDB47DE_4F07_2CC7_41C8_349D35AF11E7.source = https://api.whatsapp.com/send?phone=558498016270
+LinkBehaviour_53C807DE_5B3E_CB2D_41C8_95EDF9FA2FD6.source = https://www.facebook.com/2birds360
+LinkBehaviour_133573C6_C521_A23A_41E7_3F4B97C676EE.source = https://www.facebook.com/elementfestivalbr/
+LinkBehaviour_9D62E150_BB35_E9D0_41E3_B6D3E966219D.source = https://www.instagram.com/2birds_360/
+LinkBehaviour_53C827DE_5B3E_CB2D_41C9_6DA38C777CFB.source = https://www.instagram.com/2birds_360/
+
+## Media
+
+### Title
+panorama_37A7F836_3C7F_B3B9_41CC_C697E68F3A83.label = SONHAR CAMPINAS (3)
+panorama_360CA962_3C7F_95D8_41C6_25826C1211F4.label = SONHAR CAMPINAS (4)
+panorama_3611B62E_3C7C_7FA8_4194_1B4C109FF222.label = SONHAR CAMPINAS (5)
+panorama_36114DF7_3C7C_ACA7_41BA_F9D3C8214D02.label = SONHAR CAMPINASSS (1)
+panorama_3611F1EC_3C7C_94A8_41BA_235603DE06A9.label = SONHAR CAMPINASs (2)
+
+## Skin
+
+### Image
+Image_1646ACB0_C561_A655_41E0_86B632FD3D0A.url = skin/Image_1646ACB0_C561_A655_41E0_86B632FD3D0A_pt.png
+Image_24C775DA_04F6_37A1_4180_D80ED41939F9_mobile.url = skin/Image_24C775DA_04F6_37A1_4180_D80ED41939F9_mobile_pt.png
+Image_24C775DA_04F6_37A1_4180_D80ED41939F9.url = skin/Image_24C775DA_04F6_37A1_4180_D80ED41939F9_pt.png
+Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_mobile.url = skin/Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_mobile_pt.png
+Image_4B796E6E_054E_F561_4174_FDFB6E8DF664.url = skin/Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_pt.png
+Image_74B2519C_057D_EFA1_4189_30B4540E35EA_mobile.url = skin/Image_74B2519C_057D_EFA1_4189_30B4540E35EA_mobile_pt.png
+Image_74B2519C_057D_EFA1_4189_30B4540E35EA.url = skin/Image_74B2519C_057D_EFA1_4189_30B4540E35EA_pt.png
+Image_D5B0B51A_C521_A991_41E8_7842D66BA7E9.url = skin/Image_D5B0B51A_C521_A991_41E8_7842D66BA7E9_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SONHAR_COLCHOES
