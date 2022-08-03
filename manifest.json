@@ -1,8 +1,4 @@
 {
- "name": "SONHAR_COLCHOES",
- "theme_color": "#000000",
- "start_url": "index.htm",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#000000"
+ "theme_color": "#000000",
+ "name": "SONHAR_COLCHOES",
+ "background_color": "#000000",
+ "display": "fullscreen",
+ "start_url": "index.htm"
 }
